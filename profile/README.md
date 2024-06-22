@@ -1,5 +1,7 @@
 # SecondSideOfaSingularity's Mod Repository
-Welcome to the development repository for Mods I am planning or currently working on. Currently the only Game that I Mod is [Dragon Age: Origins](https://dragonage.fandom.com/wiki/Dragon_Age:_Origins) but I'll update this ReadMe if this changes.
+Welcome to the development repository for tracking the Game Mods that I am either planning or currently working on. Games that I Mod for are limited to the following list (that is subject to change).
+ - [Dragon Age: Origins](https://dragonage.fandom.com/wiki/Dragon_Age:_Origins)
+ - [Hogwarts Legacy](https://hogwarts-legacy.fandom.com/wiki/Hogwarts_Legacy_Wiki)
 
 ## Description
 To keep things simple, completed mods are not made available here but can be found on the [Nexus](https://www.nexusmods.com/), or via the direct URLs provided in the [Nexus URLs](#nexus-urls) section. If you have been granted access to a project for testing purposes, you should see that Mod listed after heading to the [Repositories](https://github.com/orgs/SecondSideOfaSingularity/repositories) tab.
