@@ -1,5 +1,5 @@
 # SecondSideOfaSingularity's Mod Repository
-Welcome to the development repository for tracking the Game Mods that I am either planning or currently working on. Games that I Mod for are limited to the following list (that is subject to change).
+Welcome to the development repository for tracking the Game Mods that I am either planning or currently working on. The list of games that I can currently mod for is as follows (but this is subject to change):
  - [Dragon Age: Origins](https://dragonage.fandom.com/wiki/Dragon_Age:_Origins)
  - [Hogwarts Legacy](https://hogwarts-legacy.fandom.com/wiki/Hogwarts_Legacy_Wiki)
 
