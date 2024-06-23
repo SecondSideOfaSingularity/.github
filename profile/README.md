@@ -3,7 +3,7 @@
 
 Welcome to the development repository for tracking the Game Mods that I am either planning or currently working on.
 
-### Games I Mod
+## Games I Mod
 
 | Dragon Age: Origins | Hogwarts Legacy |
 | :-----------: | :-----------: |
