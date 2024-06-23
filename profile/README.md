@@ -17,11 +17,11 @@ If you need to report a bug you've found or wish to give feedback on one of my M
 
 ## Nexus URLs
 
- - [My Nexus Profile Page](https://www.nexusmods.com/users/114285913)
- - [Dragon Age 2: Origins](https://www.nexusmods.com/dragonage/mods/5709)
- - [A Year With...](https://www.nexusmods.com/dragonage/mods/5666)
+- [My Nexus Profile Page](https://www.nexusmods.com/users/114285913)
+- [Dragon Age 2: Origins](https://www.nexusmods.com/dragonage/mods/5709)
+- [A Year With...](https://www.nexusmods.com/dragonage/mods/5666)
 
 ## Provide Feedback
 
- - [Dragon Age 2: Origins]()
- - [A Year With...]()
+- [Dragon Age 2: Origins]()
+- [A Year With...]()
